@@ -14,3 +14,10 @@ This is a console-based application developed in C language to help students pre
 - A C compiler (e.g., GCC)
 - Any platform that supports C compilation (Windows, Linux, macOS)
 - Terminal/Command Prompt access
+
+Usagage:
+Run the program.
+Enter login credentials.
+Start the quiz.
+Answer each multiple-choice question.
+At the end, view your score
