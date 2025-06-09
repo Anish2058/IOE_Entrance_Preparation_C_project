@@ -8,3 +8,9 @@ This is a console-based application developed in C language to help students pre
 - **Score Tracking**: Shows score and correct answers at the end of each quiz.
 - **Login System**: Basic login system for student access.
 - **Question Management**: Easily extendable question set via source code.
+
+### Prerequisites
+
+- A C compiler (e.g., GCC)
+- Any platform that supports C compilation (Windows, Linux, macOS)
+- Terminal/Command Prompt access
