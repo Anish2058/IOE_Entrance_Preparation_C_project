@@ -21,3 +21,5 @@ Enter login credentials.
 Start the quiz.
 Answer each multiple-choice question.
 At the end, view your score
+
+The registered user and their marks are stored on a file so they can access their all the progress in the console windows.
